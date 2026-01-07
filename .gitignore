@@ -1,0 +1,29 @@
+# VS Code workspace settings (keep local)
+.vscode/
+
+# Python build / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test/coverage caches (if used)
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS cruft
+.DS_Store
+Thumbs.db
