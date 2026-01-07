@@ -1,0 +1,21 @@
+General condition :
+The test-room is in according to the ITU recommandation ITU-R BT.500-11.
+The display is a LCD DELL 1704FPT without any processing.
+The luminance : 0.3 / 180cd/m².
+Obeservation distance : 4.9H.
+The resolution of the display is 1280x1024 pixels.
+The frame rate of the display is 60Hz.
+
+It's a free task experiment.
+
+The resolution of the video is 481x321 pixels.
+An uniform gray is put around the image to display the videos in their native resolution on the display.
+
+There are 24 observers.
+
+There are 80 images without degradations.
+
+The duration of the visualisation of each image is 15 secondes.
+
+The raw data are the column 4th (for the x position) and 5th (for the y position).
+The origin (0,0) of the data is the center of the image.
